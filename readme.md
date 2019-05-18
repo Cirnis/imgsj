@@ -4,7 +4,7 @@
 
 1. 名称 ： IMG图片 随机显示图片
 1. Author ： Syie
-1. Mial ： outdie@qq.com
+1. Mail ： outdie@qq.com
 1. QQ ： 2637896409
 
 ------------
